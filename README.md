@@ -1,7 +1,7 @@
 # :wave: Hello!
 
-My name is Mark Williams. As of October 2020, I am a full-time, full-stack student with Codecademy.
-I have listed below what I have already covered in my course, and what is still to come:
+My name is Mark. As of October 2020, I am a full-time, full-stack student with Codecademy.<br>
+Listed below is what I've already covered in my course, and what is to come in the next month or two:
 
 ## :ok_hand: Current Tools & Technologies
 
@@ -25,9 +25,15 @@ I have listed below what I have already covered in my course, and what is still 
 ![](https://img.shields.io/badge/PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=grey)
 ![](https://img.shields.io/badge/Auth0-informational?style=flat&logo=Auth0&logoColor=white&color=grey)
 
+## :neckbeard: About Me
 
-- 📫 How to reach me ...
-
+When I'm not studying:computer:, this is what I like to get up to:<br>
+:spaghetti: Cooking<br>
+:guitar: Playing Guitar<br>
+:video_game: Gaming<br>
+:bicyclist: Cycling<br>
+:checkered_flag: Formula 1<br>
+:cat: Looking after my two cats. They are a nightmare, and I wouldn't have it any other way! :revolving_hearts:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarkyXXIII&layout=compact&theme=merko)<br>
 ![MarkyXXIII's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarkyXXIII&hide=prs,issues&show_icons=true&theme=merko)
