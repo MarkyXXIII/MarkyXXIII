@@ -48,6 +48,9 @@ When I'm not studying:computer:, this is what I like to get up to:<br>
 
 ## :link: Other Links
 
+<a href="mailto:mwxxiii@gmail.com">Email Me</a>
+<br>
+<br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarkyXXIII&layout=compact&theme=merko)<br>
 ![MarkyXXIII's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarkyXXIII&hide=prs,issues&show_icons=true&theme=merko)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarkyXXIII&layout=compact&theme=merko)
