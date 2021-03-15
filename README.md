@@ -8,6 +8,7 @@ Listed below is what I've already covered in my course, and what is to come in t
 ## :ok_hand: Current Tools & Technologies
 
 ![](https://img.shields.io/badge/Windows_OS-informational?style=flat&logo=Windows&logoColor=white&color=orange)
+<br>
 ![](https://img.shields.io/badge/Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=yellow)
 ![](https://img.shields.io/badge/Git-informational?style=flat&logo=Git&logoColor=white&color=yellow)
 ![](https://img.shields.io/badge/Node.js-informational?style=flat&logo=Node.js&logoColor=white&color=yellow)
@@ -17,7 +18,9 @@ Listed below is what I've already covered in my course, and what is to come in t
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=brightgreen)
 <br>
 ![](https://img.shields.io/badge/WordPress-informational?style=flat&logo=wordpress&logoColor=white&color=yellow)
-![](https://img.shields.io/badge/WooCommerce-informational?style=flat&logo=woocommerce&logoColor=white&color=yellow)
+![](https://img.shields.io/badge/WooCommerce-informational?style=flat&logo=woocommerce&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/Elementor-informational?style=flat&logo=elementor&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/Beaver_Builder-informational?style=flat&logo=beaverbuilder&logoColor=white&color=brightgreen)
 <br>
 
 ## :eyes: Upcoming Tools & Technologies
