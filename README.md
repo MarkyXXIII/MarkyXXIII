@@ -16,6 +16,7 @@ Listed below is what I've already covered in my course, and what is to come in t
 ![](https://img.shields.io/badge/HTML_5-informational?style=flat&logo=HTML5&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/CSS_3-informational?style=flat&logo=CSS3&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/PHP-informational?style=flat&logo=PHP&logoColor=white&color=brightgreen)
 <br>
 ![](https://img.shields.io/badge/WordPress-informational?style=flat&logo=wordpress&logoColor=white&color=yellow)
 ![](https://img.shields.io/badge/WooCommerce-informational?style=flat&logo=woocommerce&logoColor=white&color=brightgreen)
