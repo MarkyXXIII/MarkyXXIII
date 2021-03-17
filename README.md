@@ -22,6 +22,7 @@ Listed below is what I've already covered in my course, and what is to come in t
 ![](https://img.shields.io/badge/WooCommerce-informational?style=flat&logo=woocommerce&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/Elementor-informational?style=flat&logo=elementor&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/Beaver_Builder-informational?style=flat&logo=beaverbuilder&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/Yoast-informational?style=flat&logo=Yoast&logoColor=white&color=brightgreen)
 <br>
 
 ## :eyes: Upcoming Tools & Technologies
