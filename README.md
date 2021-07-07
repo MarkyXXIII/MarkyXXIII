@@ -1,6 +1,8 @@
 # :wave: Hello!
 
-My name is Mark. As of October 2020, I am a full-time, full-stack student with Codecademy.<br>
+My name is Mark. Currently, I am a Web Developer at Builders Marketplace in Grays, Essex.<br>
+
+As of October 2020, I enrolled on a full-stack student with Codecademy.<br>
 Listed below is what I've already covered in my course, and what is to come in the next month or two:
 <br>
 <br>
