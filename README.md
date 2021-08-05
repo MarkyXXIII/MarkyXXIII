@@ -46,7 +46,7 @@ When I'm not working or studying, this is what I like to get up to:<br>
 <br>
 :coffee: Drinking coffee<br>
 :spaghetti: Cooking<br>
-:computer: Making Websites (:mag:<a href="www.markwill.co.uk">markwill.co.uk</a>)<br>
+:computer: Making Websites (:mag:<a href="https://www.markwill.co.uk">markwill.co.uk</a>)<br>
 :guitar: Playing Guitar<br>
 :video_game: Gaming<br>
 :coffee: Drinking more coffee..<br>
