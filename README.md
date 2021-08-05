@@ -1,9 +1,9 @@
 # :wave: Hello!
 
-My name is Mark. Currently, I am a Web Developer based in Grays, Essex.<br>
+My name is Mark. I am a Web Developer based in Essex, UK.<br>
 
-As of October 2020, I enrolled on a full-stack student with Codecademy.<br>
-Listed below is what I've already covered in my course, and what is to come in the next month or two:
+As of October 2020, I enrolled on a full-stack course with Codecademy.<br>
+Listed below is what I've already covered in my studies, and what is to come in the next month or two:
 <br>
 <br>
 
@@ -42,10 +42,11 @@ Listed below is what I've already covered in my course, and what is to come in t
 
 ## :neckbeard: About Me
 
-When I'm not studying:computer:, this is what I like to get up to:<br>
+When I'm not working or studying, this is what I like to get up to:<br>
 <br>
 :coffee: Drinking coffee<br>
 :spaghetti: Cooking<br>
+:computer: Making Websites<br>
 :guitar: Playing Guitar<br>
 :video_game: Gaming<br>
 :coffee: Drinking more coffee..<br>
