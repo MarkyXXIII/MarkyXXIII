@@ -59,7 +59,7 @@ When I'm not studying:computer:, this is what I like to get up to:<br>
 
 - <a href="https://www.codecademy.com/profiles/Marky_XXIII">Codecademy Profile</a>
 - <a href="https://www.freecodecamp.org/marky_xxiii">FreeCodeCamp Profile</a>
-- <a href="https://www.linkedin.com/in/mark-williams-429a1b178/">LinkedIn</a>
+- <a href="https://www.linkedin.com/in/mark-williams-xxiii/">LinkedIn</a>
 - <a href="mailto:mwxxiii@gmail.com">Email Me</a>
 <br>
 <br>
