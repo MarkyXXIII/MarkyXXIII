@@ -1,6 +1,6 @@
 # :wave: Hello!
 
-My name is Mark. I am a Web Developer based in Essex, UK.<br>
+My name is Mark. I am a web developer, designer and SEO consultant based in Essex, UK.<br>
 
 As of October 2020, I enrolled on a full-stack course with Codecademy.<br>
 Listed below is what I've already covered in my studies, and what is to come in the next month or two:
