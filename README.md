@@ -7,7 +7,7 @@ Listed below is what I've already covered in my studies, and what is to come in 
 <br>
 <br>
 
-## :ok_hand: Current Tools & Technologies
+## :ok_hand: Current Tools & Technologies:
 
 ![](https://img.shields.io/badge/Windows_OS-informational?style=flat&logo=Windows&logoColor=white&color=orange)
 <br>
@@ -27,7 +27,7 @@ Listed below is what I've already covered in my studies, and what is to come in 
 ![](https://img.shields.io/badge/Yoast-informational?style=flat&logo=Yoast&logoColor=white&color=brightgreen)
 <br>
 
-## :eyes: Upcoming Tools & Technologies
+## :eyes: The 'To Learn' List:
 
 ![](https://img.shields.io/badge/React-informational?style=flat&logo=React&logoColor=white&color=grey)
 ![](https://img.shields.io/badge/Redux-informational?style=flat&logo=Redux&logoColor=white&color=grey)
